@@ -85,7 +85,7 @@ export default function QuestionScreen({
             </div>
           </div>
 
-          <div className="revealed-text">
+          <div className={`revealed-text revealed-text-${question.id}`}>
             {question.successTitle ? (
               <strong className="revealed-title">{question.successTitle}</strong>
             ) : (

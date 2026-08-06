@@ -660,9 +660,69 @@ blockquote {
 }
 
 .revealed-text {
+  position: relative;
   margin-top: 17px;
   padding-top: 17px;
   border-top: 1px solid var(--border);
+}
+
+.revealed-text-1,
+.revealed-text-2,
+.revealed-text-3,
+.revealed-text-4,
+.revealed-text-5 {
+  isolation: isolate;
+  overflow: hidden;
+  padding: 22px;
+  border: 1px solid rgba(150, 63, 85, 0.18);
+  border-radius: 18px;
+  background: rgba(255, 250, 246, 0.8);
+}
+
+.revealed-text-1::before,
+.revealed-text-2::before,
+.revealed-text-3::before,
+.revealed-text-4::before,
+.revealed-text-5::before {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  content: "";
+}
+
+.revealed-text-1::before {
+  background:
+    linear-gradient(rgba(255, 250, 246, 0.42), rgba(255, 250, 246, 0.42)),
+    url("/rosa-carta-1.png") right center / cover no-repeat;
+  opacity: 0.48;
+}
+
+.revealed-text-2::before {
+  background:
+    linear-gradient(rgba(255, 250, 246, 0.34), rgba(255, 250, 246, 0.34)),
+    url("/terco-carta-2.png") right center / cover no-repeat;
+  opacity: 0.58;
+}
+
+.revealed-text-3::before {
+  background:
+    linear-gradient(rgba(255, 250, 246, 0.3), rgba(255, 250, 246, 0.3)),
+    url("/buque-carta-3.png") right center / cover no-repeat;
+  opacity: 0.62;
+}
+
+.revealed-text-4::before {
+  background:
+    linear-gradient(rgba(255, 250, 246, 0.25), rgba(255, 250, 246, 0.25)),
+    url("/veu-carta-4.png") right center / cover no-repeat;
+  opacity: 0.64;
+}
+
+.revealed-text-5::before {
+  background:
+    linear-gradient(rgba(255, 250, 246, 0.26), rgba(255, 250, 246, 0.26)),
+    url("/porta-carta-5.png") right center / cover no-repeat;
+  opacity: 0.62;
 }
 
 .revealed-text p {
@@ -670,6 +730,14 @@ blockquote {
   color: var(--muted);
   line-height: 1.65;
   white-space: pre-line;
+}
+
+.revealed-text-1 p,
+.revealed-text-2 p,
+.revealed-text-3 p,
+.revealed-text-4 p,
+.revealed-text-5 p {
+  color: #59444a;
 }
 
 .revealed-title {
