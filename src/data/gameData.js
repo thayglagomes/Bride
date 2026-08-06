@@ -20,12 +20,12 @@ export const gameConfig = {
   storageKey: "caminho-do-amor-progresso-v1",
 
   cover: {
-    eyebrow: "Antes de começar",
-    title: "Cinco perguntas. Cinco passos. Uma história inteira.",
+    eyebrow: "Jogo T&J",
+    title: "Cinco perguntas e Cinco passos.",
     description:
-      "Você responderá a cinco perguntas sobre nós. Cada resposta correta liberará uma instrução, um objeto e um texto especial. Siga o caminho com calma: a última resposta não estará na tela, mas atrás de uma porta.",
+      "Você responderá a cinco perguntas sobre nós. Cada resposta correta liberará uma instrução, um objeto e um texto especial. Siga o caminho com calma.",
     rules: [
-      "Leia cada pergunta com calma e escolha uma resposta.",
+      "Responda com calma e escolha uma resposta.",
       "Quando acertar, siga a instrução mostrada na tela.",
       "Leia o texto revelado antes de avançar para a próxima fase.",
     ],
