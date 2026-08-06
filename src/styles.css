@@ -1194,8 +1194,8 @@ blockquote {
   }
 
   .content-wrapper {
-    zoom: 0.82;
-    width: 121.95%;
+    width: 100%;
+    max-width: 100%;
   }
 
   .content-card {
@@ -1248,15 +1248,12 @@ blockquote {
 
 @media (max-width: 680px) and (max-height: 600px) {
   .content-wrapper {
-    zoom: 0.7;
-    width: 142.86%;
+    width: 100%;
+    max-width: 100%;
   }
 
   .topbar {
-    transform: scale(0.9);
-    transform-origin: top center;
-    width: calc(111.11% - 20px);
-    margin-bottom: -10px;
+    width: calc(100% - 20px);
   }
 
   .screen-layout {
