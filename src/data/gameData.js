@@ -16,7 +16,7 @@
 
 export const gameConfig = {
   title: "O caminho até a última porta",
-  coupleName: "Juliane & Thaygla",
+  coupleName: "T&J",
   storageKey: "caminho-do-amor-progresso-v1",
 
   cover: {
