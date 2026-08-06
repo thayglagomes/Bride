@@ -25,7 +25,7 @@ export const gameConfig = {
     description:
       "Você responderá a cinco perguntas sobre nós. Cada resposta correta liberará uma instrução, um objeto e um texto especial. Siga o caminho com calma.",
     rules: [
-      "Responda com calma e escolha uma resposta.",
+      "Responda com calma.",
       "Quando acertar, siga a instrução mostrada na tela.",
       "Leia o texto revelado antes de avançar para a próxima fase.",
     ],
