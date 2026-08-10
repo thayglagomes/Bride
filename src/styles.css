@@ -693,7 +693,7 @@ blockquote {
 .revealed-text-1::before {
   background:
     linear-gradient(rgba(255, 250, 246, 0.42), rgba(255, 250, 246, 0.42)),
-    url("/rosa-carta-1.png") right center / cover no-repeat;
+    url("/livro-carta-1.png") right center / cover no-repeat;
   opacity: 0.48;
 }
 

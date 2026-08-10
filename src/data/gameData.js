@@ -60,7 +60,7 @@ export const gameConfig = {
         },
       ],
       correctAnswerId: "a",
-      successAction: "1. Pegue a rosa vermelha.",
+      successAction: "1. Pegue o livro ",
       successIcon: "📖",
       successTitle: "1ª carta",
       successText: `A vida não nos trouxe até aqui por um caminho fácil. Cada passo foi marcado por lutas, medos e batalhas que, muitas vezes, só nós duas conhecemos.
