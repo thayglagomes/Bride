@@ -1,3 +1,9 @@
+function renderEmphasis(text) {
+  return text.split(/\*\*(.*?)\*\*/g).map((part, index) =>
+    index % 2 === 1 ? <strong key={`${part}-${index}`}>{part}</strong> : part,
+  );
+}
+
 export default function QuestionScreen({
   question,
   selectedAnswerId,
@@ -91,7 +97,7 @@ export default function QuestionScreen({
             ) : (
               <span>Texto revelado</span>
             )}
-            <p>{question.successText}</p>
+            <p>{renderEmphasis(question.successText)}</p>
           </div>
 
           <div className="question-actions">

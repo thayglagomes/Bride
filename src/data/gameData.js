@@ -61,15 +61,13 @@ export const gameConfig = {
       ],
       correctAnswerId: "a",
       successAction: "1. Pegue a rosa vermelha.",
-      successIcon: "🌹",
+      successIcon: "📖",
       successTitle: "1ª carta",
       successText: `A vida não nos trouxe até aqui por um caminho fácil. Cada passo foi marcado por lutas, medos e batalhas que, muitas vezes, só nós duas conhecemos.
 
-      Quando você decidiu entrar na minha vida, talvez ainda carregasse armaduras construídas para proteger o seu coração. Existiam receios, dúvidas e sentimentos que não eram simples de revelar. Eu também tinha os meus medos e minhas formas de me proteger.
+Quando você decidiu entrar na minha vida, talvez ainda carregasse armaduras construídas para proteger o seu coração. Existiam receios, dúvidas e sentimentos que não eram simples de revelar. Eu também tinha os meus medos e minhas formas de me proteger. Mas, aos poucos, essas armaduras foram caindo. Entre conversas sinceras, silêncios compreendidos e gestos de cuidado, fomos aprendendo que amar também é crescer, reconhecer nossas limitações e permitir que a outra faça parte das nossas mudanças.
 
-      Mas, aos poucos, nossas armaduras foram caindo. Entre conversas sinceras, silêncios compreendidos e gestos de cuidado, fomos nos mostrando como realmente somos. Sem pressa, aprendemos a confiar, a permanecer e a caber no abraço uma da outra.
-
-      Esta rosa vermelha representa os passos que demos até aqui. Seus espinhos lembram as dificuldades que enfrentamos, enquanto suas pétalas representam tudo o que floresceu porque tivemos coragem de continuar. Mesmo depois das batalhas, o nosso amor permaneceu vivo, forte e capaz de florescer. Que esta rosa também represente a certeza de que nenhuma luta foi em vão. Cada medo superado nos aproximou, cada queda nos ensinou e cada escolha nos trouxe até este momento.`,
+Por isso, escolhi te presentear com **Mindset**. Quero que este livro represente algo que desejo para nós duas: que nunca enxerguemos nossos erros, diferenças ou dificuldades como um ponto final, mas como oportunidades de aprender, amadurecer e construir uma relação cada vez melhor. Que tenhamos a humildade de mudar quando for necessário, a coragem de tentar novamente e a certeza de que um relacionamento também se constrói todos os dias. **Que o nosso mindset seja sempre o de duas pessoas que não precisam ser perfeitas para dar certo, mas que escolhem crescer juntas para fazer o amor dar certo.**`,
       wrongMessage:
         "Ainda não é essa data. Volte às primeiras cores da nossa história.",
       backgroundPosition: 22,

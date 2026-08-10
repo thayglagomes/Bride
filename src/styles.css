@@ -732,6 +732,11 @@ blockquote {
   white-space: pre-line;
 }
 
+.revealed-text p strong {
+  color: var(--ink);
+  font-weight: 800;
+}
+
 .revealed-text-1 p,
 .revealed-text-2 p,
 .revealed-text-3 p,
