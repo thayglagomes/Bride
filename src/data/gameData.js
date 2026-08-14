@@ -156,7 +156,7 @@ Ao olhar para estas flores brancas, quero que você se lembre de que o novo não
 
 Este buquê representa a minha intenção de construir uma relação segura, sincera e firme, na qual você possa descansar o coração e saber que o meu amor permanece.
 
-Receba estas flores como símbolo da paz que encontro em você, da firmeza da minha escolha e de tudo o que está prestes a começar.`,
+Receba estas flores como símbolo da paz que encontro em você, da firmeza da nossa HISTÓRIA.`,
       wrongMessage:
         "Pense em quem chegou pequeno no tamanho, mas ocupou um espaço enorme em nossa família.",
       backgroundPosition: 56,
@@ -234,11 +234,11 @@ Receba estas flores como símbolo da paz que encontro em você, da firmeza da mi
       successAction: "LEIA O TEXTO",
       successIcon: "🚪",
       successTitle: "5ª carta",
-      successText: `Antes de abrir esta porta, e me ver só de calcinha kkkkk. Talvez, por alguns segundos, a nossa história inteira passe pela sua cabeça como as cenas mais bonitas de um filme: o nosso encontro, os primeiros olhares, os abraços, as risadas, a saudade, os medos vencidos e todos os momentos que fizeram você se tornar o grande amor da minha vida.
+      successText: `Antes de abrir esta porta, e me ver de Lingerie kkkkk. Talvez, por alguns segundos, a nossa história inteira passe pela sua cabeça como as cenas mais bonitas de um filme: o nosso encontro, os primeiros olhares, os abraços, as risadas, a saudade, os medos vencidos e todos os momentos que fizeram você se tornar o grande amor da minha vida.
       
       Você mudou a forma como enxergo o amor. Fez nascer em mim o desejo de construir uma vida, compartilhar os dias comuns, enfrentar os difíceis e celebrar todas as alegrias ao seu lado. Em você encontrei amor, paz, companheirismo e um lugar onde posso ser inteiramente quem sou.
       
-      Talvez esta seja a nossa cena de filme. Entre com o coração aberto, porque tudo o que está esperando por você é verdadeiro.
+      Talvez esta seja a nossa cena de filme. Entre com o coração aberto e veja o que planejei para nós.
       
       CLIQUE EM CONCLUIR O CAMINHO`,
       wrongMessage:
